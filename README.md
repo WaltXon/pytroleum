@@ -1,2 +1,2 @@
 # pytroleum
-petroleum engineering and economics library for python
+petroleum engineering, economics and data gathering library for python
