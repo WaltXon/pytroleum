@@ -2,7 +2,7 @@ import requests
 import pprint
 
 url = r'http://api.eia.gov/series'
-api_key = 'CFDEC8F8DDE8C68C25DDE751C5C9F115'
+api_key = ''
 
 eia_series = {
     'wti': {
